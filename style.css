@@ -1,5 +1,4 @@
-.index {
-    color: whitesmoke;
+body{
     margin: 32px;
 }
 a{ 
@@ -7,6 +6,10 @@ a{
 }
 img{
     margin:10px
+}
+.index {
+    color: whitesmoke;
+    margin: 32px;
 }
 
 .leftimg{
